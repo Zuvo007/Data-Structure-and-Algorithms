@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "html": "html",
+        "stack": "cpp",
+        "vector": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "type_traits": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "utility": "cpp"
+    }
+}
